@@ -1,0 +1,203 @@
+
+iframe {
+  border:none;
+  width:100%;
+  height:45.3rem;
+  overflow: none;
+ 
+}
+
+.tittle {
+  text-align: center;
+  padding-top: 1%;
+}
+
+.hide {
+  display: none;
+}
+
+
+div .buttonIframe1 {
+  padding: 0% 0% 2,5% 0%;
+  position: relative;
+  margin: 2% 0% 0% 10%;
+  width: 45%;
+  float: right;
+}
+ 
+
+div .buttonIframe1 {
+    padding-top: 1%;
+    background: #007bff;
+    border-radius: 0%;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+    border: none;	
+}
+
+div .buttonIframe1:hover {
+    background: white;
+    color: #007bff;
+}
+
+
+div .buttonIframe1:focus {
+    background: white;
+    color: #007bff;
+}
+
+
+div .buttonIframe2 {
+  padding: 0% 0% 2,5% 0%;
+  position: relative;
+  margin: 2% 0% 0% 10%;
+  width: 45%;
+  left: 20%;
+}
+   
+  
+div .buttonIframe2 {
+  padding-top: 1%;
+  background: #007bff;
+  border-radius: 0%;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+  border: none;	
+  }
+  
+div .buttonIframe2:hover {
+  background: white;
+  color: #007bff;
+}
+  
+  
+div .buttonIframe2:focus {
+  background: white;
+  color: #007bff;
+}
+
+div .buttonIframe3 {
+  padding: 0% 0% 2,5% 0%;
+  position: relative;
+  margin: 2% 0% 0% 10%;
+  width: 45%;
+  float: left;
+}
+   
+  
+div .buttonIframe3 {
+  padding-top: 1%;
+  background: #007bff;
+  border-radius: 0%;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+  border: none;	
+  position: relative;
+}
+  
+div .buttonIframe3:hover {
+  background: white;
+  color: #007bff;
+}
+  
+  
+div .buttonIframe3:focus {
+  background: white;
+  color: #007bff;
+}
+
+div .col-sm-4 {
+  width: 0%;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+
+
+  iframe {
+    margin: 0% 0%;
+    width: 97%;
+    text-align: center;
+    height:25.62rem;
+  }
+
+  .googleDrive {
+    overflow-y:scroll;
+    overflow-x:hidden;
+    text-align: center;
+  }
+
+  #scroll {
+    overflow-y:scroll;
+    overflow-x:hidden;
+  }
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+
+  .tittle {
+    text-align: center;
+    padding-top: 5%;
+  }
+
+  
+
+div .buttonIframe1 {
+  padding: 3% 0%;
+  position: relative;
+  margin: 5% 0% 0% 30%;
+  width: 50%;
+  float: none;
+}
+ 
+
+div .buttonIframe1 {
+    padding-top: 1%;
+    background: #007bff;
+    border-radius: 0%;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+    border: none;	
+    position: relative;
+}
+
+
+
+div .buttonIframe2 {
+  padding: 3% 0%;
+  position: relative;
+  margin: 5% 0% 0% 10%;
+  width: 50%;
+  float: 0;
+}
+   
+  
+div .buttonIframe2 {
+  padding-top: 1%;
+  background: #007bff;
+  border-radius: 0%;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+  border: none;	
+}
+
+div .buttonIframe3 {
+  padding: 3% 0%;
+  position: relative;
+  margin: 5% 0% 0% 30%;
+  width: 50%;
+  float: 0;
+}
+   
+  
+div .buttonIframe3 {
+  padding-top: 1%;
+  background: #007bff;
+  border-radius: 0%;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+  border: none;	
+}
+
+
+div .col-sm-4 {
+  width: 100%;
+}
+
+}
